@@ -1,12 +1,11 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "I'm a Software Engineer with experience and a track record of building cost-effective, innovative, cloud-friendly, and profitable products. I enjoy planning, designing, and developing innovative web applications, Web APIs and many more applications.",
   "skills": [
+    "Software Development",
+    "Software Planning & Design",
     "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "WEB API Development",
+    "Problem solving"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "I am passionate about solving problems in innovative and creative ways to drive innovation. By leveraging my Software Development experience I continually look for new and better ways to help businesses, companies and enterprises create unlimited possibilities."
 }
