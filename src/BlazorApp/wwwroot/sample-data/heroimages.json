@@ -1,6 +1,11 @@
 [
   {
     "name": "home",
+    "src": "images/chair-and-table.jpg",
+    "alt": "chair and table"
+  },
+  {
+    "name": "home2",
     "src": "images/head-shot.jpeg",
     "alt": "man folding hands and looking straight"
   },
